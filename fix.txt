@@ -1,0 +1,75 @@
+/===== language keyword add on admin dashboard
+
+Enter Custom Page Limit
+Remove successfully
+
+/===== langauge keyword add on user dashboard
+Additional Languages Left
+
+/===== language keyword add on user front
+No Posts Found
+
+/=== replace css file
+public/assets/admin/css/custom.css
+public/assets/user/js/image-text.js
+public/assets/user-front/css/common/style.css
+
+/=== keyword add for user-website
+No Variation Found
+Enter Password
+Forgot Password
+Enter Confirm Password
+to Login
+
+
+/==== fixing list
+1. PhonePe payment gateway integration fixed across all sections
+2. Fixed default payment gateway auto-activation bug
+
+Admin Dashboard:
+1. Fixed package validation during create/edit operations
+2. Fixed language-specific text display on the Custom Domains Request page
+3. Resolved issue with storing & updating WorkProcess data
+4. Resolved issue with storing & updating Features data
+5. Fixed image validation at testimonial store time
+6. Fixed icon validation at counter information store time
+7. Fixed image validation at blog post string & updating time
+8. Fixed image validation at partner store & update time
+9. Fixed global visibility bug for additional pages based on their status
+10.Fixed manual payment approval issue when clicking the Success button
+11.Fixed all errors on the Edit Keyword pages for user, admin, and frontend edits
+12.Fixed issues related to admin role permissions
+
+
+Tenant Dashboard
+1. Fixed error when opening the Useful Links section page
+2. Fixed error after delete tenant dashboard default language
+3. Default Language issue solve after delete a language
+4. Fixed redirect issue in the additional section during create or edit actions
+5. Fixing add/edit functionality for variations in the default language
+6. Fix error when updating order status
+7. Fix offline payment error during order items
+8. Fix about us section update issue https://prnt.sc/Ncdq2SHdeqfx
+
+
+Both Dashboard
+1. Remove image button added for non required image field
+2. Cloning issue for text editor fields has been fixed across all sections
+3. Mail information create issue solve after registration a user
+4. Additional section create, edit, update issue solve
+5. Fix all CRUD operations in the ordering system
+
+Tenant Website
+1. Fixed tenant website customer email verification issue
+2. Desing Fixed 404 page
+3. Dynamically language session add for every tenant website
+4. Default Language issue solve after delete a language
+5. Fixed currency conversion prices on cart and checkout pages
+6. Fixed incorrect currency symbol display after switching https://prnt.sc/X_38udDIk5Nr
+7. Fix 404 page desing issue
+
+Admin Website
+1. Resolve announcement popup image display issue
+
+
+check category is exist for every input langauge
